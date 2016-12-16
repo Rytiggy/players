@@ -1,0 +1,7 @@
+name: Players
+main: me.thiern.Players
+version: 1.0
+commands:
+   hello:
+      description: Blank description.
+      usage: /<command>
